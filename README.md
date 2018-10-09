@@ -16,12 +16,12 @@ The following dependencies are used:
 3. [Arduino 1.8.7](https://www.arduino.cc/en/Main/Software): This is provides the ability to flash arduino and to modify the code needed for the Android App.
 
 ## Building #
-Press [>>HERE<<](https://github.com/umadbro96/aiOPENCV/wiki/Building) to get to the building instructions :)
+Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get to the building instructions :)
 
 ## Watch Examples
 
-Press [>>HERE<<](https://github.com/umadbro96/aiOPENCV/wiki/Execute-Example) to get to see how to watch the examples :)
+Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Execute-Example) to get to see how to watch the examples :)
 
-<img src="https://github.com/umadbro96/aiOPENCV/blob/master/assets/Cropped%20Car.png" width="450" height="290"><img src="https://github.com/umadbro96/aiOPENCV/blob/master/assets/arduino%20front.png" width="250" height="240">
+<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/Cropped%20Car.png" width="450" height="290"><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/arduino%20front.png" width="250" height="240">
 
 ###### This is the Master Branch for the Autonomous Driving Car 1.0
