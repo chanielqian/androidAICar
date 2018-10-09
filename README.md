@@ -21,7 +21,7 @@ Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get
 
 <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/track+smartphone.mp4.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample1.mp4.gif" width="400" height="200"><img>
 
-<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample2.mp4.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample3.mp4.gif" width="400" height="200"><img>
+<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample3.mp4.gif" width="400" height="200"><img>
 
 ## Watch Examples
 
