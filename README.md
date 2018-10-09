@@ -14,6 +14,7 @@ The following dependencies are used:
 1. [OpenCV](https://opencv.org/platforms/android/): OpenCV for Android provides the well known and powerful framework for picture manipulation that enables machine vision. 
 2. [Arduino-Android-Library](https://github.com/OmarAflak/Arduino-Library/): This provides the analog communication between Android and Arduino
 3. [Arduino 1.8.7](https://www.arduino.cc/en/Main/Software): This is provides the ability to flash arduino and to modify the code needed for the Android App.
+4. ´Arduino Code Model Car´: If you need a look into the Arduino Code, do not hasitate to contact us.
 
 ## Building #
 Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get to the building instructions :)
