@@ -80,5 +80,7 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 * Reinforcement Learning für dynamische Hindernisse, wenn Interaktion mit gesamter Umgebung notwendig
 * siehe [Athena](https://www.daimler.com/innovation/case/autonomous/bosch-kooperation.html) Projekt
+
 ---
 
+# Thank you.💳
