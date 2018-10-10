@@ -35,29 +35,44 @@ public class ArduinoManager implements ArduinoListener {
 
     @Override
     public void onArduinoAttached(UsbDevice device) {
+        if(listener == null)
+            return;
+
         listener.onArduinoAttached(device);
         arduino.open(device);
     }
 
     @Override
     public void onArduinoDetached() {
+        if(listener == null)
+            return;
+
         isInitialized = false;
         listener.onArduinoDetached();
     }
 
     @Override
     public void onArduinoMessage(byte[] bytes) {
+        if(listener == null)
+            return;
+
         listener.onArduinoMessage(new String(bytes));
     }
 
     @Override
     public void onArduinoOpened() {
+        if(listener == null)
+            return;
+
         isInitialized = true;
         listener.onArduinoOpened();
     }
 
     @Override
     public void onUsbPermissionDenied() {
+        if(listener == null)
+            return;
+
         listener.onUsbPermissionDenied();
     }
 
