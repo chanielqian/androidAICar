@@ -17,16 +17,17 @@ developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](htt
 
 # Intro 
 
-Android App die es ermöglicht durch Bilderkennungsalgorithmen ein Modellauto durch eine Teststrecke selbstständig fahren zu lassen.
+Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststrecke 
 
-Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Aufgabe mit einem Smartphone zu lösen. Außerdem wollten wir das OpenCV Framework kennenlernen. 
+* Proof of Concept : mit dem Smartphone geht MachineVision in Real-Time
+* Auseinandersetzung mit OpenCV
 
 ---
 
 # Stand der Technik
 
 * OpenCV 
-* Kommunikationslösung - Bluetooth / USB OTG
+* Kommunikation - Bluetooth / USB OTG
 * Arduino als Blackbox
 
 <img src="assets/gitpitch/architecture%20(small).png" width="500" height="300">
