@@ -29,7 +29,7 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 * Kommunikationslösung - Bluetooth / USB OTG
 * Arduino als Blackbox
 
-<img src="assets/gitpitch/architecture%20(small).png" width="700" height="390">
+<img src="assets/gitpitch/architecture%20(small).png" width="500" height="200">
 ---
 
 # Implementierung
