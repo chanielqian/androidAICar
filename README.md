@@ -1,4 +1,4 @@
-# Autonomous Driving Android Car #
+# 🏆 Autonomous Driving Android Car 💻 📱 🚗 📷 #
 Autonomous Driving Car for android smartphones developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](https://github.com/umadbro96) (since 2018).
 
 Autonomous Driving Car is an android based application which enables an modell car to drive through a test track.
@@ -17,18 +17,18 @@ The following dependencies are used:
 4. `Arduino-Code Model Car`: If you need a look into the Arduino Code, do not hasitate to contact us.
 
 ## Building #
-Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get to the building instructions :)
+Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get to the building instructions 🔗 
 
 <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/track+smartphone.mp4.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample1.mp4.gif" width="400" height="200"><img>
 <img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample2.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample3.gif" width="400" height="200">
 
 ## Präsentation in German
 
-Press [>>HERE<<](https://gitpitch.com/umadbro96/androidAICar/master) enjoy a new way of getting braintertained:)
+Press [>>HERE<<](https://gitpitch.com/umadbro96/androidAICar/master) enjoy a new way of getting braintertained 💯
 
 ## Watch Examples
 
-Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Execute-Example) to get to see how to watch the examples :)
+Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Execute-Example) to get to see how to watch the examples 🚗🏆
 
 <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/Cropped%20Car.png" width="450" height="290"><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/arduino%20front.png" width="250" height="240">
 
