@@ -47,8 +47,8 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 # Fazit
 
 * [X] Mustererkennung auf Bildern
-* [ ] Straßenschilder (statische Hindernisse)
-* [ ] Menschen (dynamische Hinternisse)
+* [  ] Straßenschilder (statische Hindernisse)
+* [  ] Menschen (dynamische Hinternisse)
 
 +++
 
