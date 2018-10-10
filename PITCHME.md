@@ -1,7 +1,7 @@
 ### Autonomous Driving Android Car 
 developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](https://github.com/umadbro96) (since 2018)
 
-![Car](https://github.com/umadbro96/androidAICar/blob/master/assets/Cropped%20Car.png)
+![Car](assets/Cropped%20Car.png)
 ---
 # Agenda
 
