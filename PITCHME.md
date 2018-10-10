@@ -49,11 +49,16 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 
 # Prototyp
 
+### Live Demo !
+<img src="https://www.neuronsw.com/wp-content/uploads/2017/09/livedemo-1.png" width="500" height="300">
+###### Source : neuronsw.com
 ---
 
 # Beispiele
-   - Here you can browse the rest of the 
-   [assets](https://github.com/umadbro96/androidAICar/tree/master/assets)
+   - [>>Hier<<](https://github.com/umadbro96/androidAICar/tree/master/aiopencv/app/src/main/java/stud/edu/aiopencv) kann direkt in den Code gesprungen werden
+   
+   - [>>Hier<<](https://github.com/umadbro96/androidAICar/tree/master/assets) lassen sich die aufgenommenen Medien finden 
+   
 
 ---
 # Fazit
