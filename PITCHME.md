@@ -1,6 +1,8 @@
-# Flux 
+# Autonomous Driving Android Car #
+Autonomous Driving Car for android smartphones developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](https://github.com/umadbro96) (since 2018).
 
-An application architecture for React
+Autonomous Driving Car is an android based application which enables an modell car to drive through a test track.
+This project was done to find out if todays smartphones are able to accomplish such a task and if yes, how good this is possible. Also this project was chosen to get to know the OpenCV Framework.
 
 ---
 
