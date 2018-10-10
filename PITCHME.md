@@ -3,6 +3,7 @@ developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](htt
 
 <img src="assets/Cropped%20Car.png" width="450" height="290">
 ---
+
 # Agenda
 
 * Intro
