@@ -12,6 +12,7 @@ developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](htt
 * Prototyp
 * Beispiele
 * Fazit
+
 ---
 
 # Intro 
@@ -37,13 +38,28 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 
 # Prototyp
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
 ---
 
 # Beispiele
+   - Here you can browse the rest of the 
+   [assets](https://github.com/umadbro96/androidAICar/tree/master/assets)
+
 ---
 # Fazit
+
+* [X] Mustererkennung auf Bildern
+* [  ] Straßenschilder (statische Hindernisse)
+* [  ] Menschen (dynamische Hinternisse)
+
++++
+
+* Smartphone -> Machine Vision
+* Smartphone -> NeuralNetwork KI via Import von trainierten Modellen
+* nVidia Jetson Board / Hightech CameraGPU Setup -> End-to-End KI
+
++++
+
+* Reinforcement Learning für dynamische Hindernisse, wenn Interaktion mit gesamter Umgebung notwendig
+* siehe Athena Projekt
 ---
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+
