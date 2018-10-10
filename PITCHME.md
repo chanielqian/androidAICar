@@ -39,7 +39,10 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
    - mat2gray - Graustufenbild
    - Canny Image (Adjazenzpixelvergleich)
    - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
-   ![Retransformation]() zum Ursprungs RGB-Bild mit erkanntem Pattern
+   - `Retransformation` zum Ursprungs RGB-Bild mit erkanntem Pattern
+
++++
+
 * Entscheidungsprozess
    - Durchschnittswinkel als gefundenen Winkel berechen -> Lenkrichtung bestimmen
 ---
@@ -68,6 +71,6 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 +++
 
 * Reinforcement Learning für dynamische Hindernisse, wenn Interaktion mit gesamter Umgebung notwendig
-* siehe Athena Projekt
+* siehe [Athena](https://www.daimler.com/innovation/case/autonomous/bosch-kooperation.html) Projekt
 ---
 
