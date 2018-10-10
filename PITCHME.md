@@ -1,7 +1,7 @@
 ### Autonomous Driving Android Car 
 developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](https://github.com/umadbro96) (since 2018)
 
-<img src="assets/Cropped%20Car.png" width="450" height="290">
+<img src="assets/gitpitch/Cropped%20Car%20(small).png" width="450" height="290">
 ---
 
 # Agenda
@@ -29,11 +29,19 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 * Kommunikationslösung - Bluetooth / USB OTG
 * Arduino als Blackbox
 
-<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/architecture.png" width="700" height="390">
+<img src="assets/gitpitch/architecture%20(small).png" width="700" height="390">
 ---
 
 # Implementierung
-
+* Pipeline
+   - rgb2hsv
+   - Binarisierung (bitwise_and) weißwert-skalierung
+   - mat2gray - Graustufenbild
+   - Canny Image (Adjazenzpixelvergleich)
+   - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
+   ![Retransformation]() zum Ursprungs RGB-Bild mit erkanntem Pattern
+* Entscheidungsprozess
+   - Durchschnittswinkel als gefundenen Winkel berechen -> Lenkrichtung bestimmen
 ---
 
 # Prototyp
