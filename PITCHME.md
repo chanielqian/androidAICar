@@ -12,6 +12,7 @@ developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](htt
 * Prototyp
 * Beispiele
 * Fazit
+
 ---
 
 # Intro 
@@ -56,5 +57,9 @@ Dieses Projekt wurde gewählt, um herauszufinden, ob es möglich ist so eine Auf
 * Smartphone -> NeuralNetwork KI via Import von trainierten Modellen
 * nVidia Jetson Board / Hightech CameraGPU Setup -> End-to-End KI
 
++++
+
+* Reinforcement Learning für dynamische Hindernisse, wenn Interaktion mit gesamter Umgebung notwendig
+* siehe Athena Projekt
 ---
 
