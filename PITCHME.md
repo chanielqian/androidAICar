@@ -1,4 +1,4 @@
-# Autonomous Driving Android Car #
+### Autonomous Driving Android Car 
 developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](https://github.com/umadbro96) (since 2018)
 
 <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/Cropped%20Car.png" width="450" height="290">
@@ -14,7 +14,7 @@ developed by [B. Grau](https://github.com/SuperCrazyKing) and [D. Lagamtzis](htt
 * Fazit
 ---
 
-# Intro #
+# Intro 
 
 Android App die es ermöglicht durch Bilderkennungsalgorithmen ein Modellauto durch eine Teststrecke selbstständig fahren zu lassen.
 
