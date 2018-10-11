@@ -47,7 +47,7 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 @snap[north-west]
 <img src="assets/gitpitch/0_track1.png" height="200" style="float: left"> </br>
-#### Original
+<sub> Original </sub>
 @snapend
 
 @snap[south-west]
