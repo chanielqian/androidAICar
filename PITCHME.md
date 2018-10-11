@@ -44,9 +44,30 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 +++
 
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
 
-test Text
+@snap[north-west]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
+
+@snap[west]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
+
+@snap[south-west]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
+
+@snap[north-east]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
+
+@snap[east]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
+
+@snap[south-east]
+<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+@snapend
 
 +++
 
