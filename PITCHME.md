@@ -44,36 +44,10 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 +++
 
+## Beispiel an einem Bild eines Streckenteils
 
-@snap[north-west]
-<img src="assets/gitpitch/0_track1.png" height="200" style="float: left"> </br>
-<sub>1. Original</sub>
-@snapend
+<img src="assets/gitpitch/all_tracks.jpg" width="500" >
 
-@snap[north]
-<img src="assets/gitpitch/1_hsvImage.png" height="200" style="float: left"> 
- --->
-@snapend
-
-@snap[north-east]
-<img src="assets/gitpitch/2_maskedImage.png" height="200" style="float: left"> </br>
-<sub>3. Maske</sub>
-@snapend
-
-@snap[south-west]
-<img src="assets/gitpitch/4_grayImage.png" height="200" style="float: left"> </br>
-<sub>4. Grau-Wert</sub>
-@snapend
-
-@snap[south]
-<img src="assets/gitpitch/5_cannyImage.png" height="200" style="float: left"> </br>
-<sub>5. Canny</sub>
-@snapend
-
-@snap[south-east]
-<img src="assets/gitpitch/6_finishedImage.png" height="200" style="float: left"> </br>
-<sub>6. Linien</sub>
-@snapend
 
 +++
 
