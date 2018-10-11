@@ -46,7 +46,7 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 ## Beispiel an einem Bild eines Streckenteils
 
-<img src="assets/gitpitch/all_tracks.jpg" width="500" >
+<img src="assets/gitpitch/all_tracks.jpg" width="1000" >
 
 
 +++
