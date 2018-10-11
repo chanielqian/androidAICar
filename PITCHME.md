@@ -35,12 +35,12 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 # Implementierung
 * Pipeline
-   - rgb2hsv
-   - Binarisierung (bitwise_and) weißwert-skalierung
-   - mat2gray - Graustufenbild
-   - Canny Image (Adjazenzpixelvergleich)
-   - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
-   - `Retransformation` zum Ursprungs RGB-Bild mit erkanntem Pattern
+   - [RGB2HSV](https://docs.opencv.org/3.1.0/de/d25/imgproc_color_conversions.html)
+   - [Arithmetic Operation](https://docs.opencv.org/3.4/d0/d86/tutorial_py_image_arithmetics.html) (bitwise_and)
+   - [Mat2Gray](https://docs.opencv.org/3.1.0/de/d25/imgproc_color_conversions.html)
+   - [Canny Edge Detector](https://docs.opencv.org/3.1.0/da/d5c/tutorial_canny_detector.html)
+   - [Hough Linien Transformation](https://docs.opencv.org/3.1.0/d9/db0/tutorial_hough_lines.html) 
+* `Display` der Linien auf Originalbild
 
 +++
 
