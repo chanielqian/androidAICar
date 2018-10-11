@@ -44,6 +44,10 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 +++
 
+<img src="assets/gitpitch/0_track1.png" height="300" style="float: right">
+
++++
+
 * Entscheidungsprozess
    - Durchschnittswinkel als gefundenen Winkel berechen -> Lenkrichtung bestimmen
 ---
