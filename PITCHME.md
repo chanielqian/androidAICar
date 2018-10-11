@@ -55,12 +55,12 @@ Original
 HSV
 @snapend
 
-@snap[north-east]
+@snap[north]
 <img src="assets/gitpitch/2_maskedImage.png" height="250" style="float: left">
 Maske
 @snapend
 
-@snap[north-east]
+@snap[south]
 <img src="assets/gitpitch/4_grayImage.png" height="250" style="float: left">
 Grau-Wert 
 @snapend
