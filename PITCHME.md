@@ -60,7 +60,7 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 <sub>3. Maske</sub>
 @snapend
 
-@snap[south-east]
+@snap[south-west]
 <img src="assets/gitpitch/4_grayImage.png" height="200" style="float: left"> </br>
 <sub>4. Grau-Wert</sub>
 @snapend
