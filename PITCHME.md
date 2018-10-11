@@ -47,32 +47,32 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 @snap[north-west]
 <img src="assets/gitpitch/0_track1.png" height="200" style="float: left"> </br>
-<sub> Original </sub>
-@snapend
-
-@snap[south-west]
-<img src="assets/gitpitch/1_hsvImage.png" height="200" style="float: left"> </br>
-#### HSV
+<sub>1. Original</sub>
 @snapend
 
 @snap[north]
-<img src="assets/gitpitch/2_maskedImage.png" height="200" style="float: left"> </br>
-#### Maske
-@snapend
-
-@snap[south]
-<img src="assets/gitpitch/4_grayImage.png" height="200" style="float: left"> </br>
-#### Grau-Wert 
+<img src="assets/gitpitch/1_hsvImage.png" height="200" style="float: left"> </br>
+<sub>2. HSV</sub>
 @snapend
 
 @snap[north-east]
+<img src="assets/gitpitch/2_maskedImage.png" height="200" style="float: left"> </br>
+<sub>3. Maske</sub>
+@snapend
+
+@snap[south-east]
+<img src="assets/gitpitch/4_grayImage.png" height="200" style="float: left"> </br>
+<sub>4. Grau-Wert</sub>
+@snapend
+
+@snap[south]
 <img src="assets/gitpitch/5_cannyImage.png" height="200" style="float: left"> </br>
-#### Canny-Edge
+<sub>5. Canny</sub>
 @snapend
 
 @snap[south-east]
 <img src="assets/gitpitch/6_finishedImage.png" height="200" style="float: left"> </br>
-#### Original mit Linien
+<sub>6. Linien</sub>
 @snapend
 
 +++
