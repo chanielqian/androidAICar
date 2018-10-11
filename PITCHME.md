@@ -51,8 +51,8 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 @snapend
 
 @snap[north]
-<img src="assets/gitpitch/1_hsvImage.png" height="200" style="float: left"> </br>
-<sub>2. HSV</sub>
+<img src="assets/gitpitch/1_hsvImage.png" height="200" style="float: left"> 
+ --->
 @snapend
 
 @snap[north-east]
