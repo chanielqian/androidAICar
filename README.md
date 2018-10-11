@@ -19,8 +19,8 @@ The following dependencies are used:
 ## Building #
 Press [>>HERE<<](https://github.com/umadbro96/androidAICar/wiki/Building) to get to the building instructions 🔗 
 
-<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/track+smartphone.mp4.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample1.mp4.gif" width="400" height="200"><img>
-<img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample2.gif" width="400" height="200"><img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample3.gif" width="400" height="200">
+<img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/track+smartphone.mp4.gif" width="400" height="200"><img>  <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample1.mp4.gif" width="400" height="200"><img>
+<img><img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample2.gif" width="400" height="200"><img>  <img src="https://github.com/umadbro96/androidAICar/blob/master/assets/video/video_sample3.gif" width="400" height="200">
 
 ## Presentation in German
 
