@@ -54,8 +54,13 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 * Entscheidungsprozess
    - Durchschnittswinkel als gefundenen Winkel berechen -> Lenkrichtung bestimmen
       ```java
-         public void main(){
-         
+         private int getSteeringAngle(List<Double> angles) {
+            double sum = 0;
+            for(Double angle in angles) {
+               sum += angle;
+            }
+            double avg = sum / angles.size();
+            return (int)avg;
          }
       ```
    
