@@ -34,17 +34,6 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 ---
 
 # Implementierung
-
-@snap[north-west]
-<img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
-@snapend
-
-
-@snap[south-west]
-<img src="assets/gitpitch/1_hsvImage.png" height="250" style="float: left">
-@snapend
-
-@snap[MidPoint]
 * Pipeline
    - rgb2hsv
    - Binarisierung (bitwise_and) weißwert-skalierung
@@ -52,15 +41,39 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
    - Canny Image (Adjazenzpixelvergleich)
    - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
    - `Retransformation` zum Ursprungs RGB-Bild mit erkanntem Pattern
+
++++
+
+
+@snap[north-west]
+<img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
+Original
+@snapend
+
+@snap[south-west]
+<img src="assets/gitpitch/1_hsvImage.png" height="250" style="float: left">
+HSV
+@snapend
+
+@snap[north-east]
+<img src="assets/gitpitch/2_maskedImage.png" height="250" style="float: left">
+Maske
 @snapend
 
 @snap[north-east]
 <img src="assets/gitpitch/4_grayImage.png" height="250" style="float: left">
+Grau-Wert 
+@snapend
+
+@snap[north-east]
+<img src="assets/gitpitch/5_cannyImage.png" height="250" style="float: left">
+Canny-Edge
 @snapend
 
 
 @snap[south-east]
 <img src="assets/gitpitch/6_finishedImage.png" height="250" style="float: left">
+Original mit Linien
 @snapend
 
 +++
