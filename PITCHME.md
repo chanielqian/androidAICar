@@ -46,27 +46,31 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 
 @snap[north-west]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
 @snapend
 
 @snap[west]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
 @snapend
 
 @snap[south-west]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
+@snapend
+
+@snap[MidPoint]
+Hier könnte ihr text stehen
 @snapend
 
 @snap[north-east]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
 @snapend
 
 @snap[east]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
 @snapend
 
 @snap[south-east]
-<img src="assets/gitpitch/0_track1.png" height="600" style="float: left">
+<img src="assets/gitpitch/0_track1.png" height="200" style="float: left">
 @snapend
 
 +++
