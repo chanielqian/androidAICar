@@ -34,16 +34,6 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 ---
 
 # Implementierung
-* Pipeline
-   - rgb2hsv
-   - Binarisierung (bitwise_and) weißwert-skalierung
-   - mat2gray - Graustufenbild
-   - Canny Image (Adjazenzpixelvergleich)
-   - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
-   - `Retransformation` zum Ursprungs RGB-Bild mit erkanntem Pattern
-
-+++
-
 
 @snap[north-west]
 <img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
@@ -51,20 +41,26 @@ Android-App zur selbstständigen Steuerung  eines Modellautos durch eine Teststr
 
 
 @snap[south-west]
-<img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
+<img src="assets/gitpitch/1_hsvImage.png" height="250" style="float: left">
 @snapend
 
 @snap[MidPoint]
-Hier könnte ihr text stehen
+* Pipeline
+   - rgb2hsv
+   - Binarisierung (bitwise_and) weißwert-skalierung
+   - mat2gray - Graustufenbild
+   - Canny Image (Adjazenzpixelvergleich)
+   - Hough Linien -> Kantenpunkte zu einer Linie zusammenfassen
+   - `Retransformation` zum Ursprungs RGB-Bild mit erkanntem Pattern
 @snapend
 
 @snap[north-east]
-<img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
+<img src="assets/gitpitch/4_grayImage.png" height="250" style="float: left">
 @snapend
 
 
 @snap[south-east]
-<img src="assets/gitpitch/0_track1.png" height="250" style="float: left">
+<img src="assets/gitpitch/6_finishedImage.png" height="250" style="float: left">
 @snapend
 
 +++
